@@ -1,0 +1,3 @@
+export default function CheckoutPage() {
+ return <section className="max-w-xl space-y-5"><p className="text-accent">CHECKOUT</p><h1 className="text-4xl font-bold">Checkout preview</h1><div className="card space-y-3"><p>Payment processing is intentionally disabled in this foundation.</p><p className="text-slate-300">Configure products, delivery and a reviewed payment provider before accepting payments.</p></div></section>;
+}
